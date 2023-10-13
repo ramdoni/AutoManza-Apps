@@ -1,6 +1,6 @@
-# automanja_application_entigi
+# Auto Manza
 
-A new Flutter project.
+AutoManza adalah aplikasi yang dikhususkan bagi kita sebagai penggunan kendaraan roda 4 untuk melakukan service di bengkel yang sudah menjadi rekanan
 
 ## Getting Started
 
